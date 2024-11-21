@@ -8,6 +8,8 @@ It comprises of basic operations like
 - PUT - _to update an existing data_
 - DELETE - _to delete an existing data_
 
+Take a look at *`adhoc`* folder inside *`main/java`* folder to know how to use the utility.
+
 ## Features
 
 > The Mock Database needs you to provide a apikey
